@@ -54632,10 +54632,6 @@ body{
   background-size: 100% 2px;
 }
 
-.hover\:font-bold:hover{
-  font-weight: 700;
-}
-
 .hover\:font-medium:hover{
   font-weight: 500;
 }
@@ -54847,10 +54843,6 @@ body{
 .group:hover .group-hover\:text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.group:hover .group-hover\:opacity-100{
-  opacity: 1;
 }
 
 .group\/tooltip:hover .group-hover\/tooltip\:opacity-100{
@@ -57155,11 +57147,6 @@ body{
   .sm\:text-6xl{
     font-size: 2.5rem;
     line-height: 2.75rem;
-  }
-
-  .sm\:text-sm{
-    font-size: 0.875rem;
-    line-height: 1.25rem;
   }
 
   .sm\:text-purple{
